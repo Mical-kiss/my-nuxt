@@ -2,12 +2,6 @@
   <section class="container">
     <div>
       <logo />
-      <h1 class="title">
-        my-nuxt
-      </h1>
-      <h2 class="subtitle">
-        Welcome to the iView + Nuxt.js template
-      </h2>
       <div class="links">
         <nuxt-link to="/user">用户页面</nuxt-link>
       </div>
